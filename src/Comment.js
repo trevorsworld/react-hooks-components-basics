@@ -5,3 +5,6 @@ function Comment() {
 }
 
 export default Comment;
+
+
+const Comment = () => <div>Naturally, I agree with this article.</div>;
